@@ -1,4 +1,4 @@
-FROM registry.artifakt.io/angular:12
+FROM registry.artifakt.io/angular:14
 
 ARG CODE_ROOT=.
 
